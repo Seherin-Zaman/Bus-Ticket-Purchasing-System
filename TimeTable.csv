@@ -1,0 +1,37 @@
+BusNumber,Stop,Time
+NCTX 1,City Centre,07:00
+NCTX 1,City Centre,08:00
+NCTX 1,City Centre,09:00
+NCTX 1,City Centre,10:00
+NCTX 1,City Centre,11:00
+NCTX 1,City Centre,12:00
+NCTX 1,City Centre,13:00
+NCTX 1,City Centre,14:00
+NCTX 1,City Centre,15:00
+NCTX 1,City Centre,16:00
+NCTX 1,City Centre,17:00
+NCTX 1,City Centre,18:00
+NCTX 45,Victoria Centre,07:30
+NCTX 45,Victoria Centre,08:30
+NCTX 45,Victoria Centre,09:30
+NCTX 45,Victoria Centre,10:30
+NCTX 45,Victoria Centre,11:30
+NCTX 45,Victoria Centre,12:30
+NCTX 45,Victoria Centre,13:30
+NCTX 45,Victoria Centre,14:30
+NCTX 45,Victoria Centre,15:30
+NCTX 45,Victoria Centre,16:30
+NCTX 45,Victoria Centre,17:30
+NCTX 45,Victoria Centre,18:30
+NCTX 100,Clifton,07:15
+NCTX 100,Clifton,07:45
+NCTX 100,Clifton,08:15
+NCTX 100,Clifton,08:45
+NCTX 100,Clifton,09:15
+NCTX 100,Clifton,09:45
+NCTX 100,Clifton,10:15
+NCTX 100,Clifton,10:45
+NCTX 100,Clifton,11:15
+NCTX 100,Clifton,11:45
+NCTX 100,Clifton,12:15
+NCTX 100,Clifton,12:45
